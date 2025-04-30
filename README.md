@@ -1,6 +1,8 @@
 # pure-react-types
 
-`@types/react` without any `react-dom` types included
+`@types/react` without any `react-dom` types included (react `v19`, backwards compatability before hooks questionable)
+
+`React.JSX.IntrinsicElements` are **empty** so this package is perfect for non-DOM react shenanigans.
 
 ## Installation
 
