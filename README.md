@@ -4,6 +4,8 @@
 
 `React.JSX.IntrinsicElements` are **empty** so this package is perfect for non-DOM react shenanigans.
 
+Also this is not a really good types package if you need experimental or canary features. Also you need typescript 5
+
 ## Installation
 
 ```sh
