@@ -1,0 +1,9 @@
+{
+  "name": "pure-react-types",
+  "version": "0.1.0",
+  "types": "src/index.d.ts",
+  "files": ["src"],
+  "main": "",
+  "description": "@types/react without any react-dom types included",
+  "license": "MIT"
+}
