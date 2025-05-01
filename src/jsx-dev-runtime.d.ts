@@ -1,7 +1,7 @@
-import * as React from "react";
-export { Fragment } from "react";
-
 declare module "react/jsx-dev-runtime" {
+    import * as React from "react";
+    export { Fragment } from "react";
+    
     export namespace JSX {
         interface Element extends React.JSX.Element {}
         interface ElementClass extends React.JSX.ElementClass {}
