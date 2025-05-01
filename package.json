@@ -1,6 +1,6 @@
 {
   "name": "pure-react-types",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "types": "src/index.d.ts",
   "files": ["src"],
   "main": "",
