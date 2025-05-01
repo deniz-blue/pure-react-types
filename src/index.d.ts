@@ -1,6 +1,5 @@
-// NOTE: Users of the `experimental` builds of React should add a reference
-// to 'react/experimental' in their project. See experimental.d.ts's top comment
-// for reference and documentation on how exactly to do it.
+/// <reference path="./jsx-runtime.d.ts" />
+/// <reference path="./jsx-dev-runtime.d.ts" />
 
 declare const UNDEFINED_VOID_ONLY: unique symbol;
 
